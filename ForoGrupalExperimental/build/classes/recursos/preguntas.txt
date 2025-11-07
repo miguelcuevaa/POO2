@@ -1,0 +1,12 @@
+MARCAR;¿Cuál es la capital de Perú?;Lima,Bogotá,Quito,Santiago;Lima
+VF;El sol es una estrella.;Verdadero,Falso;Verdadero
+COMPLETAR;La fórmula química del agua es ______.;H2O
+MARCAR;¿Qué lenguaje de programación estamos usando?;Java,Python,C++,JavaScript;Java
+VF;Java Swing es parte del JDK.;Verdadero,Falso;Verdadero
+MARCAR;¿Qué patrón de diseño estamos usando para crear preguntas?;Builder,Facade,Factory,Adapter;Factory
+COMPLETAR;El patrón MVC separa la aplicación en Modelo, Vista y ______.;Controlador
+VF;¿La Tierra es plana?;Verdadero,Falso;Falso
+MARCAR;¿En qué continente está Perú?;Europa,Asia,América,África;América
+COMPLETAR;El río más largo del mundo es el ______.;Amazonas
+VF;¿Un 'int' puede almacenar decimales en Java?;Verdadero,Falso;Falso
+MARCAR;¿Qué componente Swing usamos para una ventana principal?;JPanel,JFrame,JButton,JLabel;JFrame
